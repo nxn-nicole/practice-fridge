@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/fridge-backend.props" />
+</Project>
