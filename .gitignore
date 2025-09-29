@@ -1,0 +1,31 @@
+# .NET build outputs
+bin/
+obj/
+**/bin/
+**/obj/
+
+# JetBrains Rider / IntelliJ
+.idea/
+**/.idea/
+*.sln.iml
+
+# Visual Studio / VS Code (如用到)
+.vs/
+.vscode/
+
+# OS
+.DS_Store
+
+# User-specific
+*.user
+*.suo
+*.userprefs
+
+# Publish profiles / secrets (按需)
+*.pubxml
+*.pubxml.user
+*.PublishSettings
+
+# Logs
+*.log
+logs/
